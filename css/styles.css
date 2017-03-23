@@ -1,0 +1,13 @@
+.initially-hidden{
+  display: none;
+}
+img {
+  max-width: 50%;
+}
+body  {
+  text-align: center;
+  background-color: tomato;
+  color: white;
+  font-size: 25px;
+  font-family: sans-serif;;
+}
